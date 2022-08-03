@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Scientific profile: Sid Kerhalkar"
+title                    : "Sid Kerhalkar"
 title_separator          : "-"
 name                     : &name "Siddhant Kerhalkar"
 description              : &description "personal description"
