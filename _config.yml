@@ -84,12 +84,12 @@ author:
   avatar           : "Sid_open.png"
   bio              : "PhD Candidate"
 
-  location         : "New Bedford "
-  employer         : "SMAST, UMass Dartmouth "
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  location         : "SMAST, UMass Dartmouth, New Bedford "
+  employer         : 
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=84z2MwsAAAAJ&hl=en&authuser=1"
+  email            : "mailto:skerhalkar@umassd.edu"
+  researchgate     : "https://www.researchgate.net/profile/Siddhant-Kerhalkar"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,14 +97,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/kerhalkarsid"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-6638-0179"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
