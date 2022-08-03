@@ -82,9 +82,10 @@ analytics:
 author:
   name             : "Siddhant (Sid) Kerhalkar"
   avatar           : "Sid_open.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  bio              : "PhD Candidate"
+
+  location         : "New Bedford "
+  employer         : "SMAST, UMass Dartmouth "
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
