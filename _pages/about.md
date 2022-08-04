@@ -16,7 +16,7 @@ Academic motivation
 ======
 I spent my childhood in Visakhapatnam, a city located in the East Coast of India and thus I have always been curious about ocean dynamics, tropical cyclones, Indian summer monsoons and ocean-atmosphere exchanges. My deep love for mathematics and physics inspired me to major in mechanical engineering during my undergraduate at Indian Institute of Technology Bhubaneswar and learn about core concepts like fluid dynamics, thermodynamics, heat transfer etc. During the same time, I stumbled upon a course named "Introduction to Ocean Dynamics", followed by "Fundamentals of Weather and Climate" during my time as an undergrad at IIT Bhubaneswar. My fascination for such phenomenon coupled with a desire to make meaningful contributions to the society ensured that I first pursued a summer internship at [Indian National Center for Ocean Information Services, Hyderabad](https://incois.gov.in/), followed by applying for my current position as a PhD candidate in [Tandon labs](https://tandonlab.sites.umassd.edu/). 
 
-If you are interested to know more about this journey, this will be an [interesting read](https://gss.umassd.edu/2020/11/04/student-spotlight-siddhant-kerhalkar/).
+If you are interested to know more about this journey, the following [article](https://gss.umassd.edu/2020/11/04/student-spotlight-siddhant-kerhalkar/) will be an interesting read.
 
 Getting started
 ======
