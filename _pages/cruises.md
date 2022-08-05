@@ -1,18 +1,13 @@
 ---
-layout: archive
 title: "Cruises"
 permalink: /cruises/
 author_profile: true
 ---
 
-{% if site.cruisemap_link == true %}
+- Studying the Oxygen Deficient Zones in the Eastern Tropical North Pacific (along the coasts of Baja California, Mexico) on R/V Sally Ride, December 2020. Chief Scientist: Prof Mark Altabet.
 
-<p style="text-decoration:underline;"><a href="/cruisemap.html">See a map of all the places I've given a talk!</a></p>
+- Monsoon Intraseasonal Oscillations in the Bay of Bengal (MISO-BoB) on R/V Sally Ride, July 2019. Chief Scientist: Dr Emily Shroyer
 
-{% endif %}
+- Training Cruise, Introduction to Physical Oceanography, UMassD on R/V Lucky Lady, October 2019. Chief Scientist: Profs. Miles Sundermeyer, Geoff Cowles
 
-{% include base_path %}
 
-{% for post in site.cruises reversed %}
-  {% include archive-single-cruise.html %}
-{% endfor %}
