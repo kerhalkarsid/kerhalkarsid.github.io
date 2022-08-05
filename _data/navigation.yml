@@ -2,7 +2,7 @@
 main:
   - title: "Research"
     url: /research/
-    
+
   - title: "Publications"
     url: /publications/
 
@@ -10,7 +10,7 @@ main:
     url: /talks/    
         
   - title: "Cruises"
-    url: /cruise/
+    url: /cruises/
     
   - title: "CV"
     url: /cv/
