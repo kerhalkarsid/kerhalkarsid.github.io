@@ -1,16 +1,16 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+If papers aren't accessible, please feel free to contact me for a copy of the paper.
 
-{% include base_path %}
+## Journal 
+- **Kerhalkar, S.**, Tandon, A., Schlosser, T., Farrar, J.T. , Lucas, A.J. , Johnson, L., Hormann, V., Centurioni, L., & Laurent, L. S., The role of winds, advection and optics in modifying the Diurnal Warm Layers: A case study in the Bay of Bengal ***(in prep)***, JGR-Oceans
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## Conference 
+- **Kerhalkar, S.**, Tandon, A., Hormann, V., & Centurioni, L. (2022, February). Using drifter observations to unearth the mysteries of Monsoons in the Bay of Bengal. In OCEANS 2022-Chennai (pp. 1-7). IEEE. [link](https://ieeexplore.ieee.org/abstract/document/9775481) [pdf](https://kerhalkarsid.github.io/files/Oceans_2022_SK_v2.pdf)
+
+## Reports
+- **Kerhalkar, S.**, Francis, P.A., Studying the Oceanic Vertical Mixing in Bay of Bengal using the KPP Boundary Layer Scheme, Technical Report in Indian Academy of Sciences (2018). [link](http://reports.ias.ac.in/report/12000/studying-the-oceanic-vertical-mixing-using-the-kpp-boundary-layer-scheme) [pdf](https://kerhalkarsid.github.io/publications)
