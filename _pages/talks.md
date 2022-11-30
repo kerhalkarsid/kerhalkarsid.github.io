@@ -14,6 +14,7 @@ author_profile: true
 - High Resolution observations of the Diurnal Warm Layers in the Bay of Bengal during Monsoon 2019, MISO-BoB working group meeting, December 2020
 
 ## Posters 
+- Diurnal Warm Layers in the Bay of Bengal during Monsoon 2019, FILACHANGE-SWOT Workshop, Brown University, Providence. RI, USA, Auugust 2022
 - Diurnal Warm Layers in the Bay of Bengal during Monsoon 2019, Gordon Research Conference, South Hadley, MA, USA, June 2022
 - Diurnal Warm Layers in the Bay of Bengal during Monsoon 2019, Sigma-Xi Research Exhibit, University of Massachusetts, Dartmouth, USA, April 2022
 - Diurnal Warm Layers in the Bay of Bengal during Monsoon 2019, IMS symposium, University of Massachusetts, Dartmouth, USA, March 2022
