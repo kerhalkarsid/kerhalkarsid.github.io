@@ -11,6 +11,9 @@ main:
         
   - title: "Cruises"
     url: /cruises/
+  
+  - title: "Mentorship"
+    url: /mentorship/
     
   - title: "CV"
     url: /cv/
