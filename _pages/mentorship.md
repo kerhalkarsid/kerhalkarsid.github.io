@@ -1,11 +1,8 @@
 ---
-title: "Research"
-permalink: /research/
+title: "Mentorship"
+permalink: /mentorship/
 author_profile: true
 ---
-
-This page is under construction. But visitors are welcome to peruse my [home](https://kerhalkarsid.github.io/), [publication list](https://kerhalkarsid.github.io/publications/) and [cruises](https://kerhalkarsid.github.io/cruises/).
-
 Besides my own research, I regularly help my advisor (Prof Amit Tandon) by serving as primary mentors for Physics and Mechanical Engineering major undergraduate students who join our lab at UMass Dartmouth. Following are the list of students:
 <ol>
 <li> <b>Nicholas Monroe</b> (<i>BS, Mechanical Engineering '23</i>): Nick worked on his undergradute honors thesis in Tandon Lab from June 2022 to May 2023. His thesis focuses on intercomparing parameters of air-sea interaction from reanalysis products to observations in the Arabian Sea, with a goal to quantify the biases. </li>
