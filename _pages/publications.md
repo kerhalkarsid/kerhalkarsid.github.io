@@ -7,7 +7,11 @@ author_profile: true
 If papers aren't accessible, please feel free to contact me for a copy of the paper.
 
 ## Journal 
-- **Kerhalkar, S.**, Tandon, A., Schlosser, T., Farrar, J.T. , Lucas, A.J. , Johnson, L., Hormann, V., Centurioni, L., & Laurent, L. S., ***Observing and modeling the variability in diurnal warm layers due to winds, advection and optics (in review)***, *Journal of Physical Oceanography*
+- **Kerhalkar, S.**, Kannad, A., Kinsella, A., Tandon, A., Sprintall, J., Lee, C. ***Monsoon-Frontal Interactions Drive Cyclone Biparjoy's Wake Recovery in the Arabian Sea(in review)***, *Geophysical Research Letters* [link][https://essopenarchive.org/doi/full/10.22541/essoar.172656791.14593017/v1]
+
+- **Kerhalkar, S.**, Tandon, A., Farrar, J. T., MacKinnon, J., Schlosser, T., Johnson, L., Hormann, V., Centurioni, L.,Lucas, A.J. ***How does the salinity stratification impact SST warming over short/long timescales?(in prep)***, *Journal of Geophysical Research: Oceans*
+
+- **Kerhalkar, S.**, Tandon, A., Farrar, J. T., MacKinnon, J., Schlosser, T., Johnson, L., Lucas, A.J., Hormann, V., Centurioni, L. ***Drifting Buoy Observations of Salinity Stratification Impacts on Diurnal Warm Layers in the Bay of Bengal(in review)***, *Journal of Physical Oceanography*
 
 ## Conference 
 - **Kerhalkar, S.**, Tandon, A., Hormann, V., & Centurioni, L. *(2022, February)*. ***Using drifter observations to unearth the mysteries of Monsoons in the Bay of Bengal***. *In OCEANS 2022-Chennai (pp. 1-7). IEEE*. [link](https://ieeexplore.ieee.org/abstract/document/9775481) [pdf](https://kerhalkarsid.github.io/files/Oceans_2022_SK_v2.pdf)
