@@ -1,6 +1,6 @@
 ---
-title: "Cruises"
-permalink: /cruises/
+title: "Fieldwork Experience"
+permalink: /fieldwork/
 author_profile: true
 ---
 
