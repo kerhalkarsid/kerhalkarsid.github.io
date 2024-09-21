@@ -3,7 +3,7 @@ title: "Fieldwork Experience"
 permalink: /fieldwork/
 author_profile: true
 ---
-I have spent a total of 97 days at sea, performing fieldwork for projects that I was directly associated with, or volunteered to gain valuable experience.
+I have spent a total of 97 days at sea, performing fieldwork for either projects that I was directly associated with, or volunteered to gain valuable experience.
 
 - **Enhancing Knowledge of the Arabian Sea Marine environment through Science and Advanced Training (EKAMSAT-ASTraL) IOP cruise in the Bay of Bengal** on *R/V Thomas G Thompson*, May-June 2024. *Chief Scientist: Dr Leah Johnson*. Major responsibilities included being part of Fast-CTD watch team and processing WaMoS data (Office of Naval Research).
 
