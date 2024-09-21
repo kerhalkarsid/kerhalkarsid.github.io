@@ -13,6 +13,8 @@ If papers aren't accessible, please feel free to contact me for a copy of the pa
 
 - **Kerhalkar, S.**, Tandon, A., Farrar, J. T., MacKinnon, J., Schlosser, T., Johnson, L., Lucas, A.J., Hormann, V., Centurioni, L. ***Drifting Buoy Observations of Salinity Stratification Impacts on Diurnal Warm Layers in the Bay of Bengal(in review)***, *Journal of Physical Oceanography*
 
+- Sarkar, D.,**Kerhalkar, S.**, Tandon, A. ***Inaccuracies in reanalysis products: A case study of the Arabian Sea from 2017 to 2018(in prep)***, *Journal of Climate*
+
 ## Conference 
 - **Kerhalkar, S.**, Tandon, A., Hormann, V., & Centurioni, L. *(2022, February)*. ***Using drifter observations to unearth the mysteries of Monsoons in the Bay of Bengal***. *In OCEANS 2022-Chennai (pp. 1-7). IEEE*. [link](https://ieeexplore.ieee.org/abstract/document/9775481) [pdf](https://kerhalkarsid.github.io/files/Oceans_2022_SK_v2.pdf)
 
