@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-If papers aren't accessible, please feel free to contact me for a copy of the paper.
+Please reach out to me in case you are interested to obtain a copy of in-review papers as well as to discuss some of the in-prep papers 
 
 ## Journal 
 - **Kerhalkar, S.**, Kannad, A., Kinsella, A., Tandon, A., Sprintall, J., Lee, C. ***Monsoon-Frontal Interactions Drive Cyclone Biparjoy's Wake Recovery in the Arabian Sea(in review)***, *Geophysical Research Letters* [link](https://essopenarchive.org/doi/full/10.22541/essoar.172656791.14593017/v1) [pdf](https://kerhalkarsid.github.io/files/GRL_Biparjoy_main_draft.pdf)
