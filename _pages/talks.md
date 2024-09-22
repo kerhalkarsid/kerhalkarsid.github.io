@@ -39,7 +39,7 @@ author_profile: true
 - *Studying the Oceanic Vertical Mixing in Bay of Bengal using the KPP Boundary Layer Scheme*, **National Oceanography Workshop-2018**, Indian National Center of Ocean Information Services (INCOIS), Hyderabad, India, November 2018.
 
 ## Co-author contributions
-- *Inaccuracies in reanalysis products: A case study of the Arabian Sea from 2017 to 2018*, (Presented in multiple conferences, led by Debarshi Sarkar).
+- *Inaccuracies in reanalysis products: A case study of the Arabian Sea from 2017 to 2018*, **Geophysical Flows: From the Field to the Lab Discussion meeting, Ocean Sciences Meeting 2024, Sigma-Xi Research exhibit and IMS Symposium**, January-April 2024 (led by Debarshi Sarkar).
 - *Improving wave-mediated air-sea flux parameterizations in mixed seas: Observational and modeling for improved monsoon predictions*, **Geophysical Flows: From the Field to the Lab Discussion meeting**, IIT Madras, Chennai, India, January 2024 (led by Dr Hyodae Seo).
 - *Biases in the Air-Sea Interaction during the Year 2017-18 in the Arabian Sea*, **MassURC, Sigma-Xi Research exhibit and IMS Symposium**, March-April 2023 (led by Nicholas Monroe).
 - *Validating Geostrophic Balances in the North Atlantic Ocean*, **MassURC and Sigma-Xi Research exhibit**, April 2023 (led by Viktoriya Balabanova).
