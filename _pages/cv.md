@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 My latest CV could be found [here](https://kerhalkarsid.github.io/files/Kerhalkar_Sept_2024.pdf) <br>
-Last Revised: June 2022
+Last Revised: September 2024
