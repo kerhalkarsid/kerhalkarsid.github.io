@@ -7,7 +7,7 @@ author_profile: true
 ## Invited Talks
 - *Lateral Gradients in Salinity Stratification driving differences in Diurnal Warm Layer evolution in the Bay of Bengal*, **Physical Oceanography Departmental Seminar, Woods Hole Oceanographic Institution**, Falmouth, USA, August 2024. 
 - *Diurnal Warm Layers and its lateral gradients in the Bay of Bengal*, **Seminar, School of Earth, Ocean and Climate Sciences , IIT Bhubaneswar**, Bhubaneswar, India, July 2024. 
-- *Air-sea flux parameterization development using EKAMSAT and other field campaign observations.*, **Seminar, EKAMSAT Spring 2024 Seminar Series**, Online, April 2024 (co-presented with Dr. Hyodae Seo).
+- *Air-sea flux parameterization development using EKAMSAT and other field campaign observations.*, **Seminar, EKAMSAT Spring 2024 Seminar Series**, Online, April 2024 (co-presented with [Dr Hyodae Seo](https://www.soest.hawaii.edu/oceanography/uehiro-associate-professors-2/)).
 - *Physics of Hurricane wake evolution: A case study in the Arabian Sea*, **Plenary talk at 2024 IMS Symposium, University of Massachusetts, Dartmouth**, New Bedford, USA, March 2024.
 - *Physics of Diurnal Warm Layers and its lateral gradients in the Bay of Bengal*, **DEOS Seminar, SMAST, University of Massachusetts, Dartmouth**, New Bedford, USA, January 2024. 
 - *Lateral Gradients in Diurnal Warm Layers in the Bay of Bengal*, **Seminar, Indian Institute of Tropical Meteorology**, Pune, India, July 2023. 
@@ -40,7 +40,7 @@ author_profile: true
 
 ## Co-author contributions
 - *Inaccuracies in reanalysis products: A case study of the Arabian Sea from 2017 to 2018*, **Geophysical Flows: From the Field to the Lab Discussion meeting, Ocean Sciences Meeting 2024, Sigma-Xi Research exhibit and IMS Symposium**, January-April 2024 (led by Debarshi Sarkar).
-- *Improving wave-mediated air-sea flux parameterizations in mixed seas: Observational and modeling for improved monsoon predictions*, **Geophysical Flows: From the Field to the Lab Discussion meeting**, IIT Madras, Chennai, India, January 2024 (led by Dr Hyodae Seo).
+- *Improving wave-mediated air-sea flux parameterizations in mixed seas: Observational and modeling for improved monsoon predictions*, **Geophysical Flows: From the Field to the Lab Discussion meeting**, IIT Madras, Chennai, India, January 2024 (led by [Dr Hyodae Seo](https://www.soest.hawaii.edu/oceanography/uehiro-associate-professors-2/)).
 - *Biases in the Air-Sea Interaction during the Year 2017-18 in the Arabian Sea*, **MassURC, Sigma-Xi Research exhibit and IMS Symposium**, March-April 2023 (led by Nicholas Monroe).
 - *Validating Geostrophic Balances in the North Atlantic Ocean*, **MassURC and Sigma-Xi Research exhibit**, April 2023 (led by Viktoriya Balabanova).
 - *Studying the Ocean Surface Variables using Satellite imagery and Numerical Modeling*, **MassURC, Sigma-Xi Research exhibit and IMS Symposium**, March-April 2022 (led by Ersen'S Joseph).
