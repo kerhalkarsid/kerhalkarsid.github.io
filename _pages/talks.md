@@ -5,13 +5,13 @@ author_profile: true
 ---
 
 ## Invited Talks
-- *Lateral Gradients in Salinity Stratification driving differences in Diurnal Warm Layer evolution in the Bay of Bengal*, **Physical Oceanography Departmental Seminar, Woods Hole Oceanographic Institution**, Falmouth, USA, August 2024. 
+- *Lateral Gradients in Salinity Stratification driving differences in Diurnal Warm Layer evolution in the Bay of Bengal*, **Physical Oceanography Departmental Seminar, Woods Hole Oceanographic Institution**, Woods Hole, USA, August 2024. 
 - *Diurnal Warm Layers and its lateral gradients in the Bay of Bengal*, **Seminar, School of Earth, Ocean and Climate Sciences , IIT Bhubaneswar**, Bhubaneswar, India, July 2024. 
 - *Air-sea flux parameterization development using EKAMSAT and other field campaign observations.*, **Seminar, EKAMSAT Spring 2024 Seminar Series**, Online, April 2024 (co-presented with [Dr Hyodae Seo](https://www.soest.hawaii.edu/oceanography/uehiro-associate-professors-2/)).
 - *Physics of Hurricane wake evolution: A case study in the Arabian Sea*, **Plenary talk at 2024 IMS Symposium, University of Massachusetts, Dartmouth**, New Bedford, USA, March 2024.
 - *Physics of Diurnal Warm Layers and its lateral gradients in the Bay of Bengal*, **DEOS Seminar, SMAST, University of Massachusetts, Dartmouth**, New Bedford, USA, January 2024. 
 - *Lateral Gradients in Diurnal Warm Layers in the Bay of Bengal*, **Seminar, Indian Institute of Tropical Meteorology**, Pune, India, July 2023. 
-- *Diurnal Warm Layers in the Bay of Bengal during Monsoon 2019*, **Seminar, Monsoon Meeting, Woods Hole Oceanographic Institution**, Falmouth, USA, November 2021.
+- *Diurnal Warm Layers in the Bay of Bengal during Monsoon 2019*, **Seminar, Monsoon Meeting, Woods Hole Oceanographic Institution**, Woods Hole, USA, November 2021.
 - *Diurnal Warm Layers in the Bay of Bengal during Monsoon 2019*, **Seminar, Geophysical Flows Lab, IIT Madras**, Chennai, India, October 2021.
 - *On the Diurnal Warm Layers in the Bay of Bengal*, **PhD proposal defense, SMAST, University of Massachusetts, Dartmouth**, New Bedford, USA, August 2021.
 - *Monsoons in the Bay of Bengal and Ocean Spring Blooms*, **Seminar, Mechanical Engineering department, University of Massachusetts, Dartmouth**, North Dartmouth, USA, February 2021 (co-presented with [Iury Simoes-Sousa](https://iuryt.github.io/)).
