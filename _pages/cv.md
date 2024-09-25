@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-My latest CV could be found [here](https://kerhalkarsid.github.io/files/Kerhalkar_Sept_2024.pdf) <br>
+My latest CV could be found [here](https://kerhalkarsid.github.io/files/Kerhalkar_September_2024.pdf) <br>
 Last Revised: September 2024
