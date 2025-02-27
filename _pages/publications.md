@@ -7,11 +7,13 @@ author_profile: true
 Please reach out to me in case you are interested to obtain a copy of in-review papers as well as to discuss some of the in-prep papers 
 
 ## Journal 
-- **Kerhalkar, S.**, Kannad, A., Kinsella, A., Tandon, A., Sprintall, J., & Lee, C. M. (2025). ***Monsoon-Frontal Interactions Drive Cyclone Biparjoy's Wake Recovery in the Arabian Sea***, *Geophysical Research Letters, 52, e2024GL112413.* [link](https://doi.org/10.1029/2024GL112413) [pdf](https://kerhalkarsid.github.io/files/Geophysical Research Letters - 2025 - Kerhalkar - Monsoon‐Frontal Interactions Drive Cyclone Biparjoy s Wake Recovery in.pdf)
+- **Kerhalkar, S.**, Kannad, A., Kinsella, A., Tandon, A., Sprintall, J., & Lee, C. M. (2025). ***Monsoon-Frontal Interactions Drive Cyclone Biparjoy's Wake Recovery in the Arabian Sea***, *Geophysical Research Letters, 52, e2024GL112413.* [link](https://doi.org/10.1029/2024GL112413) [pdf](https://kerhalkarsid.github.io/files/Biparjoy_original_GRL.pdf)
 
-- **Kerhalkar, S.**, Tandon, A., Farrar, J. T., MacKinnon, J., Schlosser, T., Johnson, L., & Lucas, A.J. (in prep). ***How does the salinity stratification impact SST warming over short/long timescales?***, *Journal of Geophysical Research: Oceans*
+- **Kerhalkar, S.**, Tandon, A., Farrar, J. T., MacKinnon, J., Schlosser, T., Johnson, L., & Lucas, A.J. (in prep). ***How does the salinity stratification impact SST warming over short/long timescales?***, *Journal of Geophysical Research: Oceans*.
 
-- **Kerhalkar, S.**, Tandon, A., Farrar, J. T., MacKinnon, J., Schlosser, T., Johnson, L., Lucas, A.J., Hormann, V. & Centurioni, L. (in review). ***Drifting Buoy Observations of Salinity Stratification Impacts on Diurnal Warm Layers in the Bay of Bengal(in review)***, *Journal of Physical Oceanography*
+- **Kerhalkar, S.**, Tandon, A., Farrar, J. T., MacKinnon, J., Schlosser, T., Johnson, L., Lucas, A.J., Hormann, V. & Centurioni, L. (in review). ***Drifting Buoy Observations of Salinity Stratification Impacts on Diurnal Warm Layers in the Bay of Bengal***, *Journal of Physical Oceanography*.
+
+- Pham, H.T., Sarkar, S.,**Kerhalkar, S.**, & Tandon, A. (in prep). ***How do the interactions between winds, heat fluxes and frontal currents / jets affect the vertical and cross-front thermal transport in the Dense Water Filament?***, *Journal of Physical Oceanography*.
 
 - Sarkar, D.,**Kerhalkar, S.**, & Tandon, A. (in prep) ***Inaccuracies in reanalysis products: A case study of the Arabian Sea from 2017 to 2018***, *Journal of Climate*
 
