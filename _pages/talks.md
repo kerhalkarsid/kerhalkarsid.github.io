@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 ## Invited Talks
+- *Impacts of Salinity Stratification on SST in the Northern Indian Ocean Warm Pool*, **DEOS Seminar, SMAST, University of Massachusetts, Dartmouth**, New Bedford, USA, February 2025. 
 - *Lateral Gradients in Salinity Stratification driving differences in Diurnal Warm Layer evolution in the Bay of Bengal*, **Physical Oceanography Departmental Seminar, Woods Hole Oceanographic Institution**, Woods Hole, USA, August 2024. 
 - *Diurnal Warm Layers and its lateral gradients in the Bay of Bengal*, **Seminar, School of Earth, Ocean and Climate Sciences , IIT Bhubaneswar**, Bhubaneswar, India, July 2024. 
 - *Air-sea flux parameterization development using EKAMSAT and other field campaign observations.*, **Seminar, EKAMSAT Spring 2024 Seminar Series**, Online, April 2024 (co-presented with [Dr Hyodae Seo](https://www.soest.hawaii.edu/oceanography/uehiro-associate-professors-2/)).
@@ -17,6 +18,7 @@ author_profile: true
 - *Monsoons in the Bay of Bengal and Ocean Spring Blooms*, **Seminar, Mechanical Engineering department, University of Massachusetts, Dartmouth**, North Dartmouth, USA, February 2021 (co-presented with [Iury Simoes-Sousa](https://iuryt.github.io/)).
 
 ## Conference Talks 
+- *Impacts of Salinity Stratification on SST in the Northern Indian Ocean Warm Pool*, **EKAMSAT Science Meeting**, Boulder, USA, March 2025.
 - *How does the salinity stratification impact SST warming over short/long timescales?*, **EKAMSAT Science Meeting**, Seattle, USA, September 2024.
 - *[Observations of the cyclone Biparjoy’s cold wake decay](https://agu.confex.com/agu/OSM24/meetingapp.cgi/Paper/1483969)*, **Ocean Sciences Meeting**, New Orleans, USA, February 2024.
 - *Observations of the cyclone Biparjoy’s cold wake decay*, **Geophysical Flows: From the Field to the Lab Discussion meeting**, IIT Madras, Chennai, India, January 2024.
