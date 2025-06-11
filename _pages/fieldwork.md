@@ -16,5 +16,5 @@ I have spent a total of 97 days at sea, performing fieldwork for either projects
 - **Training Cruise, Introduction to Physical Oceanography, UMass Dartmouth** on *R/V Lucky Lady*, October 2019. *Chief Scientist: Profs. Miles Sundermeyer, Geoff Cowles*. This was a training cruise for first year graduate students in Physical Oceanography, where collecting water samples and deploying CTDs was taught.
 
 [![Research Life aboard R/V Roger Revelle in Arabian Sea!](https://img.youtube.com/vi/XtTpsDVm2sk/0.jpg)](https://www.youtube.com/watch?v=XtTpsDVm2sk)
-
+*Typical Life on a Research vessel during a fieldtrip*
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XtTpsDVm2sk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
