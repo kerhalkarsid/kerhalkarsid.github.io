@@ -38,7 +38,13 @@ I have spent a total of 97 days at sea, performing fieldwork for either projects
   <figcaption style="font-size: 24px">MISO-BoB 2019</figcaption>
 </figure>
 - **Training Cruise, Introduction to Physical Oceanography, UMass Dartmouth** on *R/V Lucky Lady*, October 2019. *Chief Scientist: Profs. Miles Sundermeyer, Geoff Cowles*. This was a training cruise for first year graduate students in Physical Oceanography, where collecting water samples and deploying CTDs was taught.
-
+<figure>
+  <img
+  src="https://kerhalkarsid.github.io/images/IMG_20191001_115819.jpg"
+  alt="SMAST Training Cruise 2019"
+  style="width: 80%; max-width: 600px;">
+  <figcaption style="font-size: 24px">SMAST Training Cruise 2019</figcaption>
+</figure>
 [comment]: <> [![Research Life aboard R/V Roger Revelle in Arabian Sea!](https://img.youtube.com/vi/XtTpsDVm2sk/0.jpg)](https://www.youtube.com/watch?v=XtTpsDVm2sk)
 
 
