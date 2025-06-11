@@ -18,4 +18,6 @@ I have spent a total of 97 days at sea, performing fieldwork for either projects
 [comment]: <> [![Research Life aboard R/V Roger Revelle in Arabian Sea!](https://img.youtube.com/vi/XtTpsDVm2sk/0.jpg)](https://www.youtube.com/watch?v=XtTpsDVm2sk)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XtTpsDVm2sk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-*Experience during Arabian Sea aboard R/V Roger Revelle during June 2023*
+*Experience at Arabian Sea aboard R/V Roger Revelle during June 2023*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EJKcHASe4SI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+*Watching Fishes after a deployent in Bay of Bengal aboard R/V Thompson during June 2024*
