@@ -19,7 +19,7 @@ Besides my own research, I regularly help my advisor (Prof Amit Tandon) by servi
   src="https://kerhalkarsid.github.io/images/Nick_amit_sid.jpeg"
   alt="(L-R) Nick, Sid and Dr. Tandon during Sigma-Xi Exhibit 2023"
   style="width: 50%; max-width: 300px;">
-  <figcaption style="font-size: 16px">Nick, Sid and Dr. Tandon during Sigma-Xi Exhibit 2023</figcaption>
+  <figcaption style="font-size: 16px">Nick, Sid and Dr. Tandon during Sigma-Xi Exhibit 2023 at UMass Dartmouth</figcaption>
 </figure>
 <li> <b>Viktoriya Balabanova</b> (<i>BS, Physics '23</i>): Vicky worked on her undergraduate thesis in Tandon Lab from January-May 2023 as a part of UMassD-WHOI-Blue Economy Internship. Her thesis focused on validating geostrophic balance by comparing the observations from a mooring deployed in North Atlantic to the Satellite altimetry. Vicky has presented this work at many local conferences like MassURC and UMassD Sigma-Xi Research exhibit. </li>
 <figure>
@@ -27,7 +27,7 @@ Besides my own research, I regularly help my advisor (Prof Amit Tandon) by servi
   src="https://kerhalkarsid.github.io/images/PXL_20230412_181121904_Original.jpg"
   alt="(L-R) Dr. Tandon, Vicky and Sid during Sigma-Xi Exhibit 2023"
   style="width: 50%; max-width: 300px;">
-  <figcaption style="font-size: 16px"> Dr. Tandon, Vicky and Sid during Sigma-Xi Exhibit 2023</figcaption>
+  <figcaption style="font-size: 16px"> Dr. Tandon, Vicky and Sid during Sigma-Xi Exhibit 2023 at UMass Dartmouth</figcaption>
 </figure>
 <li> <b>Ersen'S Joseph</b> (<i>BS, Mechanical Engineering '22</i>): Ersen'S worked with us as a part of Undergraduate Research Internship Program, UMassD (from January-December 2021) as well as UMassD-WHOI-Blue Economy Internship (from January-May 2022). His project involved analyzing RAMA mooring data in the Bay of Bengal, developing a numerical particle tracking model and comparing with observed particle motion in open ocean as well as using powerful computation resources to analyze remote sensing datasets in order to uncover the seasonality in the Bay of Bengal. Ersen'S has presented this work at many local conferences like MassURC, IMS symposium, UMassD Sigma-Xi Research exhibit etc. Ersen'S is currently a MS student in Mechanical Engineering with Dr Amit Tandon and Dr Tom Farrar while also working as an Engineer in Upper Ocean Processes lab in WHOI. </li>
 </ol>
