@@ -9,15 +9,15 @@ I have spent a total of 97 days at sea, performing fieldwork for either projects
 <figure>
   <img
   src="https://kerhalkarsid.github.io/files/nsp_20240614_072235_20240614-0123-IMG_1108.jpg"
+  alt="EKAMSAT 2024"
   style="width: 80%; max-width: 600px;">
-  alt="EKAMSAT 2024">
   <figcaption>EKAMSAT 2024</figcaption>
 </figure>
 - **Enhancing Knowledge of the Arabian Sea Marine environment through Science and Advanced Training (EKAMSAT-ASTraL) Pilot cruise** on *R/V Roger Revelle*, June 2023. *Chief Scientist: Dr Craig Lee*. Major responsibilities included being part of the uCTD watch team and processing ship MET, TSG, WaMoS data (Office of Naval Research).
 <figure>
   <img
   src="https://kerhalkarsid.github.io/files/a98835ce-2386-4c46-aad1-01f0c8e7209b.JPG"
-  alt="EKAMSAT 2023">
+  alt="EKAMSAT 2023"
   style="width: 80%; max-width: 600px;">
   <figcaption>EKAMSAT 2023</figcaption>
 </figure>
@@ -25,7 +25,7 @@ I have spent a total of 97 days at sea, performing fieldwork for either projects
 <figure>
   <img
   src="https://kerhalkarsid.github.io/files/Picture1.jpg"
-  alt="ETNP 2020/21">
+  alt="ETNP 2020/21"
   style="width: 80%; max-width: 600px;">
   <figcaption>ETNP 2020/21</figcaption>
 </figure>
@@ -33,7 +33,7 @@ I have spent a total of 97 days at sea, performing fieldwork for either projects
 <figure>
   <img
   src="https://kerhalkarsid.github.io/files/nsp_20190804_113725_20190803-0063-IMG_3657.jpg"
-  alt="MISOBOB 2019">
+  alt="MISOBOB 2019"
   style="width: 80%; max-width: 600px;">
   <figcaption>MISO-BoB 2019</figcaption>
 </figure>
