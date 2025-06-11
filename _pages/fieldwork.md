@@ -27,7 +27,7 @@ I have spent a total of 97 days at sea, performing fieldwork for either projects
   src="https://kerhalkarsid.github.io/files/Picture1.jpg"
   alt="ETNP 2020/21"
   style="width: 80%; max-width: 600px;">
-  <figcaption style="font-size: 24px">ETNP 2020/21</figcaption>
+  <figcaption style="font-size: 24px">ETNP Fieldwork 2020/21</figcaption>
 </figure>
 - **Monsoon Intraseasonal Oscillations in the Bay of Bengal (MISO-BoB)** on *R/V Sally Ride*, July-August 2019. *Chief Scientist: Dr Emily Shroyer*. Major responsibilities included being part of Fast-CTD Deployment, Watch and Recovery Team (Office of Naval Research).
 <figure>
