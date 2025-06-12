@@ -35,7 +35,7 @@ I have spent a total of 97 days at sea, performing fieldwork for either projects
   src="https://kerhalkarsid.github.io/files/nsp_20190804_113725_20190803-0063-IMG_3657.jpg"
   alt="MISOBOB 2019"
   style="width: 80%; max-width: 600px;display: block; margin: 0 auto;">
-  <figcaption style="font-size: 24px;text-align: center;margin-top: 8px;margin-left: 250px;">MISO-BoB 2019</figcaption>
+  <figcaption style="font-size: 24px;text-align: center;margin-top: 8px;margin-left: 285px;">MISO-BoB 2019</figcaption>
 </figure>
 - **Training Cruise, Introduction to Physical Oceanography, UMass Dartmouth** on *R/V Lucky Lady*, October 2019. *Chief Scientist: Profs. Miles Sundermeyer, Geoff Cowles*. This was a training cruise for first year graduate students in Physical Oceanography, where collecting water samples and deploying CTDs was taught.
 <figure>
