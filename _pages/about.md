@@ -12,8 +12,8 @@ I am a sea-going oceanographer working as a PhD candidate at [School for Marine 
   <img
   src="https://kerhalkarsid.github.io/images/IMG_8423.jpg"
   alt="Outside SMAST"
-  style="width: 80%; max-width: 600px;">
-  <figcaption style="font-size: 16px">Sid with advisor Dr. Amit Tandon, colleagues and collaborators from WHOI outside School for Marine Science and Technology (SMAST), UMassD</figcaption>
+  style="width: 80%; max-width: 600px;display: block; margin: 0 auto;">
+  <figcaption style="font-size: 16px;text-align: center;margin-top: 8px;margin-left: 90px">Sid with advisor Dr. Amit Tandon, colleagues and collaborators from WHOI outside School for Marine Science and Technology (SMAST), UMassD</figcaption>
 </figure>
 ## Academic motivation
 I spent my childhood in Visakhapatnam, a city located in the East Coast of India and thus I have always been curious about ocean dynamics, tropical cyclones, Indian summer monsoons and ocean-atmosphere exchanges. As a mechanical engineering undergraduate student and learning core concepts like advanced engineering math, fluid dynamics, thermodynamics, heat transfer etc, I stumbled upon the course "Introduction to Ocean Dynamics". This was followed by "Fundamentals of Weather and Climate" which re-ignited my curiosity towards oceans and atmosphere. My fascination for such phenomenon coupled with a desire to make meaningful contributions to the society ensured that I first pursued a summer fellowship at [Indian National Center for Ocean Information Services, Hyderabad](https://incois.gov.in/), following which I applied for my current position as a PhD candidate in [Tandon labs](https://tandonlab.sites.umassd.edu/). After five years as a graduate student, including 97 days at sea, I remain as motivated as ever—if not more so—to continue contributing to this important field.
@@ -21,7 +21,7 @@ I spent my childhood in Visakhapatnam, a city located in the East Coast of India
   <img
   src="https://kerhalkarsid.github.io/images/IMG_5196.jpg"
   alt="Outside SMAST"
-  style="width: 80%; max-width: 600px;">
-  <figcaption style="font-size: 16px">Sid explaining his research and broader impacts to the community at UMassD</figcaption>
+  style="width: 80%; max-width: 600px;display: block; margin: 0 auto;">
+  <figcaption style="font-size: 16px;text-align: center;margin-top: 8px;margin-left: 90px">Sid explaining his research and broader impacts to the community at UMassD</figcaption>
 </figure>
 If you are interested to know more about this journey, the following [article](https://gss.umassd.edu/2020/11/04/student-spotlight-siddhant-kerhalkar/) will be an interesting read. UMass Dartmouth also did a feature story which can be read [here](https://www.umassd.edu/feature-stories/2023/siddhant-kerhalkar.html)
