@@ -27,7 +27,7 @@ I have spent a total of 97 days at sea, performing fieldwork for either projects
   src="https://kerhalkarsid.github.io/files/Picture1.jpg"
   alt="ETNP 2020/21"
   style="width: 80%; max-width: 600px;display: block; margin: 0 auto;">
-  <figcaption style="font-size: 24px;text-align: center;margin-top: 8px;margin-left: 285px;">ETNP Fieldwork 2020/21</figcaption>
+  <figcaption style="font-size: 24px;text-align: center;margin-top: 8px;margin-left: 250px;">ETNP Fieldwork 2020/21</figcaption>
 </figure>
 - **Monsoon Intraseasonal Oscillations in the Bay of Bengal (MISO-BoB)** on *R/V Sally Ride*, July-August 2019. *Chief Scientist: Dr Emily Shroyer*. Major responsibilities included being part of Fast-CTD Deployment, Watch and Recovery Team (Office of Naval Research).
 <figure>
@@ -35,7 +35,7 @@ I have spent a total of 97 days at sea, performing fieldwork for either projects
   src="https://kerhalkarsid.github.io/files/nsp_20190804_113725_20190803-0063-IMG_3657.jpg"
   alt="MISOBOB 2019"
   style="width: 80%; max-width: 600px;display: block; margin: 0 auto;">
-  <figcaption style="font-size: 24px;text-align: center;margin-top: 8px;margin-left: 285px:">MISO-BoB 2019</figcaption>
+  <figcaption style="font-size: 24px;text-align: center;margin-top: 8px;margin-left: 250px:">MISO-BoB 2019</figcaption>
 </figure>
 - **Training Cruise, Introduction to Physical Oceanography, UMass Dartmouth** on *R/V Lucky Lady*, October 2019. *Chief Scientist: Profs. Miles Sundermeyer, Geoff Cowles*. This was a training cruise for first year graduate students in Physical Oceanography, where collecting water samples and deploying CTDs was taught.
 <figure>
@@ -43,7 +43,7 @@ I have spent a total of 97 days at sea, performing fieldwork for either projects
   src="https://kerhalkarsid.github.io/images/IMG_20191001_115819.jpg"
   alt="SMAST Training Cruise 2019"
   style="width: 80%; max-width: 600px;display: block; margin: 0 auto;">
-  <figcaption style="font-size: 24px;text-align: center;margin-top: 8px;margin-left: 285px;">SMAST Training Cruise 2019</figcaption>
+  <figcaption style="font-size: 24px;text-align: center;margin-top: 8px;margin-left: 250px;">SMAST Training Cruise 2019</figcaption>
 </figure>
 [comment]: <> [![Research Life aboard R/V Roger Revelle in Arabian Sea!](https://img.youtube.com/vi/XtTpsDVm2sk/0.jpg)](https://www.youtube.com/watch?v=XtTpsDVm2sk)
 
