@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Siddhant (Sid) Kerhalkar"
   avatar           : "sid_hawaii.png"
-  bio              : "PhD Candidate at SMAST"
+  bio              : "Postdoc at SOEST"
 
-  location         : "UMass Dartmouth, New Bedford"
+  location         : "UHawai'i at Mãnoa, Honolulu"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=84z2MwsAAAAJ&hl=en&authuser=1"
-  email            : "skerhalkar@umassd.edu"
+  email            : "siddhant@hawaii.edu"
   researchgate     : "https://www.researchgate.net/profile/Siddhant-Kerhalkar"
   uri              :
   bitbucket        :
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "sid_k_ocean97"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
