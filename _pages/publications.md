@@ -9,7 +9,7 @@ Please reach out to me in case you are interested to obtain a copy of in-review 
 ## Journal 
 - **Kerhalkar, S.**, Kannad, A., Kinsella, A., Tandon, A., Sprintall, J., & Lee, C. M. (2025). ***Monsoon-Frontal Interactions Drive Cyclone Biparjoy's Wake Recovery in the Arabian Sea***, *Geophysical Research Letters, 52, e2024GL112413.* [link](https://doi.org/10.1029/2024GL112413) [pdf](https://kerhalkarsid.github.io/files/Biparjoy_original_GRL.pdf)
 
-- **Kerhalkar, S.**, Tandon, A. & MacKinnon, J.(in review). ***HImpacts of Salinity Stratification on sub-seasonal SST warming in the Northern Indian Ocean.***, *Journal of Geophysical Research: Oceans*.
+- **Kerhalkar, S.**, Tandon, A. & MacKinnon, J.(in review). ***Impacts of Salinity Stratification on sub-seasonal SST warming in the Northern Indian Ocean.***, *Journal of Geophysical Research: Oceans*.
 
 - **Kerhalkar, S.**, Tandon, A., Farrar, J. T., MacKinnon, J., Schlosser, T., Johnson, L., Lucas, A.J., Hormann, V. & Centurioni, L. (in review). ***Modulation of Diurnal SST and Diurnal Warm Layer Variability by Salinity-Driven Stratification in the Bay of Bengal.***, *Journal of Physical Oceanography*.
 

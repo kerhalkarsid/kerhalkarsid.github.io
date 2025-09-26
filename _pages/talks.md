@@ -18,6 +18,7 @@ author_profile: true
 - *Monsoons in the Bay of Bengal and Ocean Spring Blooms*, **Seminar, Mechanical Engineering department, University of Massachusetts, Dartmouth**, North Dartmouth, USA, February 2021 (co-presented with [Iury Simoes-Sousa](https://iuryt.github.io/)).
 
 ## Conference Talks 
+- *Impacts of Salinity Stratification and wave-based formulation on SST within the Indian Ocean mini-warm pool*, **EKAMSAT Science Meeting**, Herndon, USA, September 2025.
 - *Impacts of Salinity Stratification on SST in the Northern Indian Ocean Warm Pool*, **EKAMSAT Science Meeting**, Boulder, USA, March 2025.
 - *How does the salinity stratification impact SST warming over short/long timescales?*, **EKAMSAT Science Meeting**, Seattle, USA, September 2024.
 - *[Observations of the cyclone Biparjoy’s cold wake decay](https://agu.confex.com/agu/OSM24/meetingapp.cgi/Paper/1483969)*, **Ocean Sciences Meeting**, New Orleans, USA, February 2024.
