@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 ## Invited Talks
+- *Physics of Hurricanes*, **Second Half Lifelong Learning Institute**, New Bedford, USA, March 2025. 
 - *Impacts of Salinity Stratification on SST in the Northern Indian Ocean Warm Pool*, **DEOS Seminar, SMAST, University of Massachusetts, Dartmouth**, New Bedford, USA, February 2025. 
 - *Lateral Gradients in Salinity Stratification driving differences in Diurnal Warm Layer evolution in the Bay of Bengal*, **Physical Oceanography Departmental Seminar, Woods Hole Oceanographic Institution**, Woods Hole, USA, August 2024. 
 - *Diurnal Warm Layers and its lateral gradients in the Bay of Bengal*, **Seminar, School of Earth, Ocean and Climate Sciences , IIT Bhubaneswar**, Bhubaneswar, India, July 2024. 
@@ -14,7 +15,6 @@ author_profile: true
 - *Lateral Gradients in Diurnal Warm Layers in the Bay of Bengal*, **Seminar, Indian Institute of Tropical Meteorology**, Pune, India, July 2023. 
 - *Diurnal Warm Layers in the Bay of Bengal during Monsoon 2019*, **Seminar, Monsoon Meeting, Woods Hole Oceanographic Institution**, Woods Hole, USA, November 2021.
 - *Diurnal Warm Layers in the Bay of Bengal during Monsoon 2019*, **Seminar, Geophysical Flows Lab, IIT Madras**, Chennai, India, October 2021.
-- *On the Diurnal Warm Layers in the Bay of Bengal*, **PhD proposal defense, SMAST, University of Massachusetts, Dartmouth**, New Bedford, USA, August 2021.
 - *Monsoons in the Bay of Bengal and Ocean Spring Blooms*, **Seminar, Mechanical Engineering department, University of Massachusetts, Dartmouth**, North Dartmouth, USA, February 2021 (co-presented with [Iury Simoes-Sousa](https://iuryt.github.io/)).
 
 ## Conference Talks 
@@ -31,6 +31,7 @@ author_profile: true
 - *High Resolution observations of the Diurnal Warm Layers in the Bay of Bengal during Monsoon 2019*, **MISO-BoB working group meeting**, December 2020.
 
 ## Posters 
+- *Monsoon-Frontal Interactions Drive Cyclone Biparjoy's Wake Recovery in the Arabian Sea*, **Intercampus Marine Science symposium**, University of Massachusetts, Dartmouth, USA, March 2025.
 - *Lateral Gradients in Diurnal Warm Layers in the Bay of Bengal*, **Geophysical Flows: From the Field to the Lab Discussion meeting**, IIT Madras, Chennai, India, January 2024.
 - *Observing and Modeling the variability of DWLs during the Summer Monsoon in the Northern Indian Ocean*, **CLIVAR Mesoscale and Frontal Scale Air-Sea Interaction Workshop**,Boulder, USA, March 2023.
 - *Diurnal Warm Layers in the Bay of Bengal during Monsoon 2019*, **FILACHANGE-SWOT Workshop**, Brown University, Providence. RI, USA, August 2022.
