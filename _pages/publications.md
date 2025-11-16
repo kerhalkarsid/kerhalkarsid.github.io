@@ -13,7 +13,7 @@ Please reach out to me in case you are interested to obtain a copy of in-review 
 
 - **Kerhalkar, S.**, Tandon, A., Farrar, J. T., MacKinnon, J., Schlosser, T., Johnson, L., Lucas, A.J., Hormann, V. & Centurioni, L. (accepted). ***Modulation of Diurnal SST and Diurnal Warm Layer Variability by Salinity-Driven Stratification in the Bay of Bengal.***, *Journal of Physical Oceanography*.
 
-- **Kerhalkar, S.**, Tandon, A., Farrar, J. T., MacKinnon, J., Schlosser, T., Johnson, L., Lucas, A., Centurioni, L., & Hormann, V. (2025, June 6). ***Datset for ``Modulation of Diurnal SST and Diurnal Warm Layer Variability by Salinity-Driven Stratification in the Bay of Bengal" (Version v1) [Dataset]***. Zenodo. https://doi.org/10.5281/zenodo.15507276
+- **Kerhalkar, S.**, Tandon, A., Farrar, J. T., MacKinnon, J., Schlosser, T., Johnson, L., Lucas, A., Centurioni, L., & Hormann, V. (2025, June 6). ***Datset for ``Modulation of Diurnal SST and Diurnal Warm Layer Variability by Salinity-Driven Stratification in the Bay of Bengal" (Version v1) [Dataset]***. Zenodo. [link](https://doi.org/10.5281/zenodo.15507276) 
 
 - Pham, H.T., Sarkar, S.,**Kerhalkar, S.**, & Tandon, A. (in prep). ***How do the interactions between winds, heat fluxes and frontal currents / jets affect the vertical and cross-front thermal transport in the Dense Water Filament?***, *Journal of Physical Oceanography*.
 
