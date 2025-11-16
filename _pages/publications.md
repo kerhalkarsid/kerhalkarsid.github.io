@@ -7,7 +7,7 @@ author_profile: true
 Please reach out to me in case you are interested to obtain a copy of in-review papers as well as to discuss some of the in-prep papers 
 
 ## Journal 
-- **Kerhalkar, S.**, Kannad, A., Kinsella, A., Tandon, A., Sprintall, J., & Lee, C. M. (2025). ***Monsoon-Frontal Interactions Drive Cyclone Biparjoy's Wake Recovery in the Arabian Sea***, *Geophysical Research Letters, 52, e2024GL112413.* [https://doi.org/10.1029/2024GL112413](https://doi.org/10.1029/2024GL112413) [pdf](https://kerhalkarsid.github.io/files/Biparjoy_original_GRL.pdf)
+- **Kerhalkar, S.**, Kannad, A., Kinsella, A., Tandon, A., Sprintall, J., & Lee, C. M. (2025). ***Monsoon-Frontal Interactions Drive Cyclone Biparjoy's Wake Recovery in the Arabian Sea***, *Geophysical Research Letters, 52, e2024GL112413.* [https://doi.org/10.1029/2024GL112413](https://doi.org/10.1029/2024GL112413) [***PDF***](https://kerhalkarsid.github.io/files/Biparjoy_original_GRL.pdf)
 
 - **Kerhalkar, S.**, Tandon, A. & MacKinnon, J.(in review). ***Impacts of Salinity Stratification on sub-seasonal SST warming in the Northern Indian Ocean.***, *Journal of Geophysical Research: Oceans*.
 
@@ -20,7 +20,7 @@ Please reach out to me in case you are interested to obtain a copy of in-review 
 - Sarkar, D.,**Kerhalkar, S.**, & Tandon, A. (in prep) ***Inaccuracies in reanalysis products: A case study of the Arabian Sea from 2017 to 2018***, *Journal of Climate*
 
 ## Conference 
-- **Kerhalkar, S.**, Tandon, A., Hormann, V., & Centurioni, L. *(2022, February)*. ***Using drifter observations to unearth the mysteries of Monsoons in the Bay of Bengal***. *In OCEANS 2022-Chennai (pp. 1-7). IEEE*. [link](https://ieeexplore.ieee.org/abstract/document/9775481) [pdf](https://kerhalkarsid.github.io/files/Oceans_2022_SK_v2.pdf)
+- **Kerhalkar, S.**, Tandon, A., Hormann, V., & Centurioni, L. *(2022, February)*. ***Using drifter observations to unearth the mysteries of Monsoons in the Bay of Bengal***. *In OCEANS 2022-Chennai (pp. 1-7). IEEE*. [link](https://ieeexplore.ieee.org/abstract/document/9775481) [***PDF***](https://kerhalkarsid.github.io/files/Oceans_2022_SK_v2.pdf)
 
 ## Reports
 - **Kerhalkar, S.**(2026), ***Salinity Stratification and Lateral Variability in the Northern Indian Ocean: From Calm Diurnal Cycles to Cyclone-Induced Recovery***, *PhD Thesis*. [link](www.kerhalkarsid.github.io)
