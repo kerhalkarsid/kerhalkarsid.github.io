@@ -16,7 +16,7 @@ Please reach out to me in case you are interested to obtain a copy of in-review 
 
 ### Accepted/Published
 
-- **Kerhalkar, S.**, Tandon, A., Farrar, J. T., MacKinnon, J., Schlosser, T., Johnson, L., Lucas, A.J., Hormann, V. & Centurioni, L. (in press). ***Modulation of Diurnal SST and Diurnal Warm Layer Variability by Salinity-Driven Stratification in the Bay of Bengal.***, *Journal of Physical Oceanography*. [https://journals.ametsoc.org/view/journals/phoc/aop/JPO-D-25-0134.1/JPO-D-25-0134.1.xml](https://doi.org/10.1175/JPO-D-25-0134.1) [***PDF***](https://kerhalkarsid.github.io/files/Kerhalkar_EOR_JPO.pdf)
+- **Kerhalkar, S.**, Tandon, A., Farrar, J. T., MacKinnon, J., Schlosser, T., Johnson, L., Lucas, A.J., Hormann, V. & Centurioni, L. (2026). ***Modulation of Diurnal SST and Diurnal Warm Layer Variability by Salinity-Driven Stratification in the Bay of Bengal.***, *Journal of Physical Oceanography*. [https://doi.org/10.1175/JPO-D-25-0134.1](https://doi.org/10.1175/JPO-D-25-0134.1) [***PDF***](https://kerhalkarsid.github.io/files/Kerhalkar_EOR_JPO.pdf)
 
 - **Kerhalkar, S.**, Kannad, A., Kinsella, A., Tandon, A., Sprintall, J., & Lee, C. M. (2025). ***Monsoon-Frontal Interactions Drive Cyclone Biparjoy's Wake Recovery in the Arabian Sea***, *Geophysical Research Letters, 52, e2024GL112413.* [https://doi.org/10.1029/2024GL112413](https://doi.org/10.1029/2024GL112413) [***PDF***](https://kerhalkarsid.github.io/files/Biparjoy_original_GRL.pdf)
 
