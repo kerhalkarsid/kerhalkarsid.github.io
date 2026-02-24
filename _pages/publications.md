@@ -10,7 +10,7 @@ Please reach out to me in case you are interested to obtain a copy of in-review 
 ### In-Prep/In-Review
 - **Kerhalkar, S.**, Tandon, A. & MacKinnon, J.(in review). ***Impacts of Salinity Stratification on sub-seasonal SST warming in the Northern Indian Ocean.***, *Journal of Geophysical Research: Oceans*.
 
-- Pham, H.T., Sarkar, S.,**Kerhalkar, S.**, & Tandon, A. (submitted). ***Intense turbulence by stabilizing and destabilizing Ekman buoyancy fluxes at submesoscale ocean fronts***, *Geophysical Research Letters*.
+- Pham, H.T., Sarkar, S.,**Kerhalkar, S.**, & Tandon, A. (in review). ***Intense turbulence by stabilizing and destabilizing Ekman buoyancy fluxes at submesoscale ocean fronts***, *Geophysical Research Letters*.
 
 - Sarkar, D.,**Kerhalkar, S.**, & Tandon, A. (in prep) ***Air-Sea Heat Flux Biases in Reanalyses Products in the Arabian Sea***, *Journal of Climate*
 

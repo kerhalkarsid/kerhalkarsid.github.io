@@ -5,7 +5,11 @@ author_profile: true
 ---
 
 ## Invited Talks
-- *Physics of Hurricanes*, **Second Half Lifelong Learning Institute**, New Bedford, USA, March 2025. 
+- *Modulation of Diurnal SST and Diurnal Warm Layer Variability by Salinity-Driven Stratification in the Bay of Bengal*, **Air-Sea Flux from Space Webinar Series, OASIS**, Online, February 2026. [Seminar recording here](https://youtu.be/6XnEW-GZU6k)
+- *Physics of Cyclone Wake Recovery: Submesoscale Turbulence Driven by Wind–Front Interactions*, **Climate, Atmospheric Sciences, and Physical Oceanography Seminar, Scripps Institution of Oceanography, UCSD**, San Diego, USA, February 2026. 
+- *Technical session on 1-D mixed layer models: General Ocean Turbulence Model (GOTM)*, **Small-Scale Air-Sea Interaction course (OCN 665), University of Hawaiʻi at Mānoa**, Honolulu, USA, January 2026. 
+- *Physics of Cyclone Wake Recovery: Submesoscale Turbulence Driven by Wind–Front Interactions*, **Oceanography Seminar, University of Hawaiʻi at Mānoa**, Honolulu, USA, January 2026. 
+- *Physics of Hurricanes*, **Guest Lecture, Second Half Lifelong Learning Institute**, New Bedford, USA, March 2025. 
 - *Impacts of Salinity Stratification on SST in the Northern Indian Ocean Warm Pool*, **DEOS Seminar, SMAST, University of Massachusetts, Dartmouth**, New Bedford, USA, February 2025. 
 - *Lateral Gradients in Salinity Stratification driving differences in Diurnal Warm Layer evolution in the Bay of Bengal*, **Physical Oceanography Departmental Seminar, Woods Hole Oceanographic Institution**, Woods Hole, USA, August 2024. 
 - *Diurnal Warm Layers and its lateral gradients in the Bay of Bengal*, **Seminar, School of Earth, Ocean and Climate Sciences , IIT Bhubaneswar**, Bhubaneswar, India, July 2024. 
@@ -18,6 +22,7 @@ author_profile: true
 - *Monsoons in the Bay of Bengal and Ocean Spring Blooms*, **Seminar, Mechanical Engineering department, University of Massachusetts, Dartmouth**, North Dartmouth, USA, February 2021 (co-presented with [Iury Simoes-Sousa](https://iuryt.github.io/)).
 
 ## Conference Talks 
+- *Seasonal Variability of Wave States and Their Influence on Air-Sea Fluxes in the Northern Indian Ocean*, **International Indian Ocean Science Conference 2025 (IIOSC-2025)**, Hyderabad, India, December 2025 (presented by Hyodae Seo on my behalf).
 - *Impacts of Salinity Stratification and wave-based formulation on SST within the Indian Ocean mini-warm pool*, **EKAMSAT Science Meeting**, Herndon, USA, September 2025.
 - *Impacts of Salinity Stratification on SST in the Northern Indian Ocean Warm Pool*, **EKAMSAT Science Meeting**, Boulder, USA, March 2025.
 - *How does the salinity stratification impact SST warming over short/long timescales?*, **EKAMSAT Science Meeting**, Seattle, USA, September 2024.
@@ -31,6 +36,9 @@ author_profile: true
 - *High Resolution observations of the Diurnal Warm Layers in the Bay of Bengal during Monsoon 2019*, **MISO-BoB working group meeting**, December 2020.
 
 ## Posters 
+- *Monsoon-Frontal-Wave Interactions Drive Cyclone Biparjoy's Wake Recovery in the Arabian Sea*, **AMS 37th Conference on Hurricanes and Tropical Meteorology**, San Diego, USA, March 2026.
+- *Seasonal Variability of Wave States and Their Influence on Air-Sea Fluxes in the Northern Indian Ocean*, **2026 Breakthroughs: Uehiro and Oceanography Yearly Symposium (2026 BUOYS)**, University of Hawaiʻi at Mānoa, Honolulu, USA, March 2026.
+- *Impacts of Salinity Stratification and COARE wave-based formulation on SST and Air-sea fluxes within the Indian Ocean mini-warm pool*, **AGU Ocean Sciences Meeting 2026**, Glasgow, Scotland, February 2026 (abstract accepted but could not travel).
 - *Monsoon-Frontal Interactions Drive Cyclone Biparjoy's Wake Recovery in the Arabian Sea*, **Intercampus Marine Science symposium**, University of Massachusetts, Dartmouth, USA, March 2025.
 - *Lateral Gradients in Diurnal Warm Layers in the Bay of Bengal*, **Geophysical Flows: From the Field to the Lab Discussion meeting**, IIT Madras, Chennai, India, January 2024.
 - *Observing and Modeling the variability of DWLs during the Summer Monsoon in the Northern Indian Ocean*, **CLIVAR Mesoscale and Frontal Scale Air-Sea Interaction Workshop**,Boulder, USA, March 2023.
@@ -43,8 +51,9 @@ author_profile: true
 - *Studying the Oceanic Vertical Mixing in Bay of Bengal using the KPP Boundary Layer Scheme*, **National Oceanography Workshop-2018**, Indian National Center of Ocean Information Services (INCOIS), Hyderabad, India, November 2018.
 
 ## Co-author contributions
+- *Wave–Wind Misalignment and Drag Coefficient Rolloff in High-Wind Tropical Cyclones*, **AMS 37th Conference on Hurricanes and Tropical Meteorology**, San Diego, USA, March 2026 (led by Cesar Sauvage).
 - *Inaccuracies in reanalysis products: A case study of the Arabian Sea from 2017 to 2018*, **Geophysical Flows: From the Field to the Lab Discussion meeting, Ocean Sciences Meeting 2024, Sigma-Xi Research exhibit and IMS Symposium**, January-April 2024 (led by Debarshi Sarkar).
-- *Improving wave-mediated air-sea flux parameterizations in mixed seas: Observational and modeling for improved monsoon predictions*, **Geophysical Flows: From the Field to the Lab Discussion meeting**, IIT Madras, Chennai, India, January 2024 (led by [Dr Hyodae Seo](https://www.soest.hawaii.edu/oceanography/uehiro-associate-professors-2/)).
+- *Improving wave-mediated air-sea flux parameterizations in mixed seas: Observational and modeling for improved monsoon predictions*, **Geophysical Flows: From the Field to the Lab Discussion meeting**, IIT Madras, Chennai, India, January 2024 (led by [Dr Hyodae Seo](https://www.hyodaeseo.com/)).
 - *Biases in the Air-Sea Interaction during the Year 2017-18 in the Arabian Sea*, **MassURC, Sigma-Xi Research exhibit and IMS Symposium**, March-April 2023 (led by Nicholas Monroe).
 - *Validating Geostrophic Balances in the North Atlantic Ocean*, **MassURC and Sigma-Xi Research exhibit**, April 2023 (led by Viktoriya Balabanova).
 - *Studying the Ocean Surface Variables using Satellite imagery and Numerical Modeling*, **MassURC, Sigma-Xi Research exhibit and IMS Symposium**, March-April 2022 (led by Ersen'S Joseph).
