@@ -13,7 +13,7 @@ Please reach out to me in case you are interested to obtain a copy of in-review 
 ### Accepted/Published
 - Pham, H.T., Sarkar, S.,**Kerhalkar, S.**, & Tandon, A. (2026). ***Wind-Front Interactions Drive Intense Turbulence at the Oceanic Submesoscale***. [https://doi.org/10.1029/2026GL121719](https://doi.org/10.1029/2026GL121719) [***PDF***](https://kerhalkarsid.github.io/files/Pham_2026_GRL_WindFront_LES.pdf) 
 
-- **Kerhalkar, S.**, Tandon, A. & MacKinnon, J.(2026). ***Impacts of Salinity Stratification on sub-seasonal SST warming in the Northern Indian Ocean.***, *Journal of Geophysical Research: Oceans*. [https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC023486](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC023486) [***PDF***] (https://kerhalkarsid.github.io/files/Kerhalkar_JGR_Salinity_influence_ISO_updated.pdf)
+- **Kerhalkar, S.**, Tandon, A. & MacKinnon, J.(2026). ***Impacts of Salinity Stratification on sub-seasonal SST warming in the Northern Indian Ocean.***, *Journal of Geophysical Research: Oceans*. [https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC023486](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC023486) [***PDF***](https://kerhalkarsid.github.io/files/Kerhalkar_JGR_Salinity_influence_ISO_updated.pdf)
 
 - **Kerhalkar, S.**, Tandon, A., Farrar, J. T., MacKinnon, J., Schlosser, T., Johnson, L., Lucas, A.J., Hormann, V. & Centurioni, L. (2026). ***Modulation of Diurnal SST and Diurnal Warm Layer Variability by Salinity-Driven Stratification in the Bay of Bengal.***, *Journal of Physical Oceanography*. [https://doi.org/10.1175/JPO-D-25-0134.1](https://doi.org/10.1175/JPO-D-25-0134.1) [***PDF***](https://kerhalkarsid.github.io/files/Kerhalkar_EOR_JPO.pdf)
 
