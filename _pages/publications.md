@@ -13,7 +13,7 @@ Please reach out to me in case you are interested to obtain a copy of in-review 
 - Sarkar, D.,**Kerhalkar, S.**, & Tandon, A. (in prep) ***Air-Sea Heat Flux Biases in Reanalyses Products in the Arabian Sea***, *Journal of Climate*
 
 ### Accepted/Published
-- Pham, H.T., Sarkar, S.,**Kerhalkar, S.**, & Tandon, A. (2026). ***Wind-Front Interactions Drive Intense Turbulence at the Oceanic Submesoscale***, *Geophysical Research Letters 53.11, e2026GL121719..* [https://doi.org/10.1029/2026GL121719](https://doi.org/10.1029/2026GL121719) [***PDF***](https://kerhalkarsid.github.io/files/Pham_2026_GRL_WindFront_LES.pdf) 
+- Pham, H.T., Sarkar, S.,**Kerhalkar, S.**, & Tandon, A. (2026). ***Wind-Front Interactions Drive Intense Turbulence at the Oceanic Submesoscale***, *Geophysical Research Letters 53.11, e2026GL121719.* [https://doi.org/10.1029/2026GL121719](https://doi.org/10.1029/2026GL121719) [***PDF***](https://kerhalkarsid.github.io/files/Pham_2026_GRL_WindFront_LES.pdf) 
 
 - **Kerhalkar, S.**, Tandon, A. & MacKinnon, J.(2026). ***Impacts of Salinity Stratification on sub-seasonal SST warming in the Northern Indian Ocean.***, *Journal of Geophysical Research: Oceans*. [https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC023486](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC023486) [***PDF***](https://kerhalkarsid.github.io/files/Kerhalkar_JGR_Salinity_influence_ISO_updated.pdf)
 
