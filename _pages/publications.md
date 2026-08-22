@@ -8,10 +8,12 @@ Please reach out to me in case you are interested to obtain a copy of in-review 
 
 ## Journal 
 ### In-Prep/In-Review
+- Kokkirala, A.,**Kerhalkar, S.**, Zavala‐Garay J., & Tandon, A. (in prep) ***Comparison of Cruise Hydrographic measurements with high resolution Reanlaysis models***, *Journal TBD*
+
 - Sarkar, D.,**Kerhalkar, S.**, & Tandon, A. (in prep) ***Air-Sea Heat Flux Biases in Reanalyses Products in the Arabian Sea***, *Journal of Climate*
 
 ### Accepted/Published
-- Pham, H.T., Sarkar, S.,**Kerhalkar, S.**, & Tandon, A. (2026). ***Wind-Front Interactions Drive Intense Turbulence at the Oceanic Submesoscale***. [https://doi.org/10.1029/2026GL121719](https://doi.org/10.1029/2026GL121719) [***PDF***](https://kerhalkarsid.github.io/files/Pham_2026_GRL_WindFront_LES.pdf) 
+- Pham, H.T., Sarkar, S.,**Kerhalkar, S.**, & Tandon, A. (2026). ***Wind-Front Interactions Drive Intense Turbulence at the Oceanic Submesoscale***, *Geophysical Research Letters 53.11, e2026GL121719..* [https://doi.org/10.1029/2026GL121719](https://doi.org/10.1029/2026GL121719) [***PDF***](https://kerhalkarsid.github.io/files/Pham_2026_GRL_WindFront_LES.pdf) 
 
 - **Kerhalkar, S.**, Tandon, A. & MacKinnon, J.(2026). ***Impacts of Salinity Stratification on sub-seasonal SST warming in the Northern Indian Ocean.***, *Journal of Geophysical Research: Oceans*. [https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC023486](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC023486) [***PDF***](https://kerhalkarsid.github.io/files/Kerhalkar_JGR_Salinity_influence_ISO_updated.pdf)
 
@@ -28,6 +30,8 @@ Please reach out to me in case you are interested to obtain a copy of in-review 
 - **Kerhalkar, S.**, Tandon, A., Hormann, V., & Centurioni, L. *(2022, February)*. ***Using drifter observations to unearth the mysteries of Monsoons in the Bay of Bengal***. *In OCEANS 2022-Chennai (pp. 1-7). IEEE*. [link](https://ieeexplore.ieee.org/abstract/document/9775481) [***PDF***](https://kerhalkarsid.github.io/files/Oceans_2022_SK_v2.pdf)
 
 ## Reports
+- **Kerhalkar, S.**, & Tandon, A. (2026), ***Impacts of Salinity Stratification on Diurnal and Sub-seasonal SST warming in the Northern Indian Ocean***, *Newsletter, The Indian Ocean Bubble, Issue no. 23, June 2026 * [***PDF***](https://kerhalkarsid.github.io/files/IIOE-2-DOC_OM_327.pdf) 
+
 - **Kerhalkar, S.**(2025), ***Salinity Stratification and Lateral Variability in the Northern Indian Ocean: From Calm Diurnal Cycles to Cyclone-Induced Recovery***, *PhD Thesis*. [https://doi.org/10.62791/20502](https://doi.org/10.62791/20502) [***PDF***](https://kerhalkarsid.github.io/files/Kerhalkar_SMAST_PhD_Dissertation_2025.pdf) 
 
 - **Kerhalkar, S.**, & Francis, P.A. (2018), ***Studying the Oceanic Vertical Mixing in Bay of Bengal using the KPP Boundary Layer Scheme***, *Technical Report in Indian Academy of Sciences*. [link](http://reports.ias.ac.in/report/12000/studying-the-oceanic-vertical-mixing-using-the-kpp-boundary-layer-scheme) [pdf](https://kerhalkarsid.github.io/publications)

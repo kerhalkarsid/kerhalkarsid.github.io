@@ -35,7 +35,8 @@ author_profile: true
 - *Diurnal Warm Layers in the Bay of Bengal during Monsoon 2019*, **MISO-BoB working group meeting**, October 2021.
 - *High Resolution observations of the Diurnal Warm Layers in the Bay of Bengal during Monsoon 2019*, **MISO-BoB working group meeting**, December 2020.
 
-## Posters 
+## Posters
+- *Monsoon-Frontal-Wave Interactions Drive Cyclone Biparjoy's Wake Recovery in the Arabian Sea*, **Gordon Research Conference on Ocean Mixing**, South Hadley, USA, June 2026. 
 - *Monsoon-Frontal-Wave Interactions Drive Cyclone Biparjoy's Wake Recovery in the Arabian Sea*, **AMS 37th Conference on Hurricanes and Tropical Meteorology**, San Diego, USA, March 2026.
 - *Seasonal Variability of Wave States and Their Influence on Air-Sea Fluxes in the Northern Indian Ocean*, **2026 Breakthroughs: Uehiro and Oceanography Yearly Symposium (2026 BUOYS)**, University of Hawaiʻi at Mānoa, Honolulu, USA, March 2026.
 - *Impacts of Salinity Stratification and COARE wave-based formulation on SST and Air-sea fluxes within the Indian Ocean mini-warm pool*, **AGU Ocean Sciences Meeting 2026**, Glasgow, Scotland, February 2026 (abstract accepted but could not travel).
