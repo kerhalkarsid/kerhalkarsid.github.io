@@ -22,6 +22,8 @@ author_profile: true
 - *Monsoons in the Bay of Bengal and Ocean Spring Blooms*, **Seminar, Mechanical Engineering department, University of Massachusetts, Dartmouth**, North Dartmouth, USA, February 2021 (co-presented with [Iury Simoes-Sousa](https://iuryt.github.io/)).
 
 ## Conference Talks 
+- *Updates on Waves: Momentum flux estimation and stokes drift*, **EKAMSAT Waves Working Group Meeting**, Online, September 2026.
+- *Momentum Flux Estimated from In-Situ Wave Spectra in the Northern Indian Ocean*, **EKAMSAT Science Meeting**, Herndon, USA, May 2026.
 - *Seasonal Variability of Wave States and Their Influence on Air-Sea Fluxes in the Northern Indian Ocean*, **International Indian Ocean Science Conference 2025 (IIOSC-2025)**, Hyderabad, India, December 2025 (presented by Hyodae Seo on my behalf).
 - *Impacts of Salinity Stratification and wave-based formulation on SST within the Indian Ocean mini-warm pool*, **EKAMSAT Science Meeting**, Herndon, USA, September 2025.
 - *Impacts of Salinity Stratification on SST in the Northern Indian Ocean Warm Pool*, **EKAMSAT Science Meeting**, Boulder, USA, March 2025.
