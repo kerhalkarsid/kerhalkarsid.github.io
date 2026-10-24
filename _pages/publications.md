@@ -10,7 +10,7 @@ Please reach out to me in case you are interested to obtain a copy of in-review 
 ### In-Prep/In-Review
 - Kokkirala, A.,**Kerhalkar, S.**, Zavala‐Garay J., & Tandon, A. (in prep) ***Comparison of Cruise Hydrographic measurements with high resolution Reanlaysis models***, *Journal TBD*
 
-- Sarkar, D.,**Kerhalkar, S.**, & Tandon, A. (in rev.) ***Air-Sea Heat Flux Biases in Reanalyses Products in the Arabian Sea***, *Journal of Climate*
+- Sarkar, D.,**Kerhalkar, S.**, & Tandon, A. (in review) ***Air-Sea Heat Flux Biases in Reanalyses Products in the Arabian Sea***, *Journal of Climate*
 
 ### Accepted/Published
 - Pham, H.T., Sarkar, S.,**Kerhalkar, S.**, & Tandon, A. (2026). ***Wind-Front Interactions Drive Intense Turbulence at the Oceanic Submesoscale***, *Geophysical Research Letters 53.11, e2026GL121719.* [https://doi.org/10.1029/2026GL121719](https://doi.org/10.1029/2026GL121719) [***PDF***](https://kerhalkarsid.github.io/files/Pham_2026_GRL_WindFront_LES.pdf) 
