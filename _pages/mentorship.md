@@ -11,7 +11,7 @@ Besides my own research, I regularly help my advisors by serving as primary ment
   src="https://kerhalkarsid.github.io/images/Komazawa_2026_SeoLab.jpg"
   alt="Yu, Sid and Hyodae during a meeting."
   style="width: 50%; max-width: 300px;display: block; margin: 0 auto;">
-  <figcaption style="font-size: 16px;text-align: center;margin-top: 8px;">Yu, Sid and Hyodae in a meeting during his stay at UH</figcaption>
+  <figcaption style="font-size: 16px;text-align: center;margin-top: 8px;margin-left: 100px;">Yu, Sid and Hyodae in a meeting during his stay at UH</figcaption>
 </figure>
 
 <li> <b>Debarshi Sarkar</b> (<i>Current PhD Student, Engineering and Applied Sciences, UMassD</i>): Debarshi is currently working on extending Nick's undergraduate thesis to incorporate observations from multiple OMNI moorings in the Arabian Sea and multiple reanalysis products for his first chapter of PhD. The goal behind this chapter is to report biases in measured and derived air-sea interaction parameters, as to address one likely issue of faulty monsoon forecasting. This work has been presented at Ocean Sciences Meeting 2024 and some other International and local conferences. Sid is serving as a colleague mentor for this work.</li>
