@@ -15,21 +15,27 @@ Additionally, I have a keen interest in hurricanes and tropical cyclones, and I 
 
 Before graduate school, I completed my undergraduate studies at the [Indian Institute of Technology, Bhubaneswar, India](http://www.iitbbs.ac.in), majoring in mechanical engineering.
 
-<figure>
-  <img
-  src="https://kerhalkarsid.github.io/images/IMG_8423.jpg"
-  alt="Outside SMAST"
-  style="width: 80%; max-width: 600px;display: block; margin: 0 auto;">
-  <figcaption style="font-size: 16px;text-align: center;margin-top: 8px;margin-left: 30px">Sid with his PhD advisor Prof. Amit Tandon, colleagues and collaborators from WHOI outside School for Marine Science and Technology (SMAST), UMassD</figcaption>
-</figure>
+<div style="display: flex; flex-wrap: wrap; gap: 24px; justify-content: center;">
+  <figure style="flex: 1 1 320px; max-width: 600px; margin: 0;">
+    <img
+      src="https://kerhalkarsid.github.io/images/IMG_8423.jpg"
+      alt="Sid with his PhD advisor and colleagues outside SMAST"
+      style="display: block; width: 100%; height: auto;">
+    <figcaption style="font-size: 16px; text-align: center; margin-top: 8px;">
+      Sid with his PhD advisor Prof. Amit Tandon, colleagues and collaborators from WHOI outside School for Marine Science and Technology (SMAST), UMassD
+    </figcaption>
+  </figure>
 
-<figure>
-  <img
-  src="https://kerhalkarsid.github.io/images/Seo_Lab_2026.jpeg"
-  alt="Outside MSB"
-  style="width: 80%; max-width: 600px;display: block; margin: 0 auto;">
-  <figcaption style="font-size: 16px;text-align: center;margin-top: 8px;margin-left: 30px">Sid with his postdoc advisor Prof. Hyodae Seo and colleagues at Seo Lab outside Marine Science Building (MSB), UH</figcaption>
-</figure>
+  <figure style="flex: 1 1 320px; max-width: 600px; margin: 0;">
+    <img
+      src="https://kerhalkarsid.github.io/images/Seo_Lab_2026.jpeg"
+      alt="Sid with his postdoc advisor and colleagues outside MSB"
+      style="display: block; width: 100%; height: auto;">
+    <figcaption style="font-size: 16px; text-align: center; margin-top: 8px;">
+      Sid with his postdoc advisor Prof. Hyodae Seo and colleagues at Seo Lab outside Marine Science Building (MSB), UH
+    </figcaption>
+  </figure>
+</div>
 ## Academic motivation
 I spent my childhood in Visakhapatnam, a city located in the East Coast of India and thus I have always been curious about ocean dynamics, tropical cyclones, Indian summer monsoons and ocean-atmosphere exchanges. As a mechanical engineering undergraduate student and learning core concepts like advanced engineering math, fluid dynamics, thermodynamics, heat transfer etc, I stumbled upon the course "Introduction to Ocean Dynamics". This was followed by "Fundamentals of Weather and Climate" which re-ignited my curiosity towards oceans and atmosphere. My fascination for such phenomenon coupled with a desire to make meaningful contributions to the society ensured that I first pursued a summer fellowship at [Indian National Center for Ocean Information Services, Hyderabad](https://incois.gov.in/), following which I applied for a PhD candidate position in [Tandon labs](https://tandonlab.sites.umassd.edu/). After six years as a graduate student, including 97 days at sea, I remain as motivated as ever—if not more so—to continue contributing to this important field, due to which I am now working as a postdoctoral researcher at University of Hawaiʻi at Mānoa.
 <figure>
