@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a sea-going oceanographer working as a postdoctoral researcher at the [Department of Oceanography](https://www.soest.hawaii.edu/oceanography/profile/?smid=15126), [School of Ocean and Earth Science and Technology](https://www.soest.hawaii.edu/soestwp/) at the [University of Hawaiʻi at Mānoa](https://manoa.hawaii.edu/) under the supervision of [Dr. Hyodae Seo](https://www.hyodaeseo.com/). I primarily study upper ocean processes and air–sea interactions at small length and time scales, aiming to understand how these processes influence larger-scale oceanic and atmospheric systems. Currently, my postdoctoral work investigates how surface waves and wind-wave-current (mis)alignment modulate ocean boundary layer mixing and air–sea fluxes.
+I am a sea-going oceanographer working as a postdoctoral researcher at the [Department of Oceanography](https://www.soest.hawaii.edu/oceanography/profile/?smid=15126), [School of Ocean and Earth Science and Technology](https://www.soest.hawaii.edu/soestwp/) at the [University of Hawaiʻi at Mānoa](https://manoa.hawaii.edu/) under the supervision of [Prof. Hyodae Seo](https://www.hyodaeseo.com/). I primarily study upper ocean processes and air–sea interactions at small length and time scales, aiming to understand how these processes influence larger-scale oceanic and atmospheric systems. Currently, my postdoctoral work investigates how surface waves and wind-wave-current (mis)alignment modulate ocean boundary layer mixing and air–sea fluxes.
 
 Prior to this, I was a PhD candidate at the [School for Marine Sciences and Technology](https://www.umassd.edu/smast/) (UMass Dartmouth) under the supervision of Prof. Amit Tandon. For my PhD dissertation, I focused on Diurnal Warm Layers in the Bay of Bengal, which evolve over the course of a day and have potential implications for small-scale ocean mixing, daily atmospheric convection, and larger-scale atmospheric processes such as the Indian Summer Monsoons. My research combined in-situ observations, remote sensing, and 1-D and 3-D numerical ocean modeling.
 
@@ -20,7 +20,15 @@ Before graduate school, I completed my undergraduate studies at the [Indian Inst
   src="https://kerhalkarsid.github.io/images/IMG_8423.jpg"
   alt="Outside SMAST"
   style="width: 80%; max-width: 600px;display: block; margin: 0 auto;">
-  <figcaption style="font-size: 16px;text-align: center;margin-top: 8px;margin-left: 30px">Sid with his PhD advisor Dr. Amit Tandon, colleagues and collaborators from WHOI outside School for Marine Science and Technology (SMAST), UMassD</figcaption>
+  <figcaption style="font-size: 16px;text-align: center;margin-top: 8px;margin-left: 30px">Sid with his PhD advisor Prof. Amit Tandon, colleagues and collaborators from WHOI outside School for Marine Science and Technology (SMAST), UMassD</figcaption>
+</figure>
+
+<figure>
+  <img
+  src="https://kerhalkarsid.github.io/images/Seo_Lab_2026.jpeg"
+  alt="Outside MSB"
+  style="width: 80%; max-width: 600px;display: block; margin: 0 auto;">
+  <figcaption style="font-size: 16px;text-align: center;margin-top: 8px;margin-left: 30px">Sid with his postdoc advisor Prof. Hyodae Seo and colleagues at Seo Lab outside Marine Science Building (MSB), UH</figcaption>
 </figure>
 ## Academic motivation
 I spent my childhood in Visakhapatnam, a city located in the East Coast of India and thus I have always been curious about ocean dynamics, tropical cyclones, Indian summer monsoons and ocean-atmosphere exchanges. As a mechanical engineering undergraduate student and learning core concepts like advanced engineering math, fluid dynamics, thermodynamics, heat transfer etc, I stumbled upon the course "Introduction to Ocean Dynamics". This was followed by "Fundamentals of Weather and Climate" which re-ignited my curiosity towards oceans and atmosphere. My fascination for such phenomenon coupled with a desire to make meaningful contributions to the society ensured that I first pursued a summer fellowship at [Indian National Center for Ocean Information Services, Hyderabad](https://incois.gov.in/), following which I applied for a PhD candidate position in [Tandon labs](https://tandonlab.sites.umassd.edu/). After six years as a graduate student, including 97 days at sea, I remain as motivated as ever—if not more so—to continue contributing to this important field, due to which I am now working as a postdoctoral researcher at University of Hawaiʻi at Mānoa.
