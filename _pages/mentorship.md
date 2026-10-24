@@ -3,9 +3,18 @@ title: "Mentorship"
 permalink: /mentorship/
 author_profile: true
 ---
-Besides my own research, I regularly help my advisor (Prof Amit Tandon) by serving as primary mentors for Physics and Mechanical Engineering major undergraduate and graduate students who join our lab at UMass Dartmouth. Following are the list of students:
+Besides my own research, I regularly help my advisors by serving as primary mentors for undergraduate and graduate students in the lab I am associated in. Following are the list of students:
 <ol>
-<li> <b>Debarshi Sarkar</b> (<i>Current PhD Student, Engineering and Applied Sciences</i>): Debarshi is currently working on extending Nick's undergraduate thesis to incorporate observations from multiple OMNI moorings in the Arabian Sea and multiple reanalysis products for his first chapter of PhD. The goal behind this chapter is to report biases in measured and derived air-sea interaction parameters, as to address one likely issue of faulty monsoon forecasting. This work has been presented at Ocean Sciences Meeting 2024 and some other International and local conferences. Sid is serving as a colleague mentor for this work.</li>
+<li> <b>Yu Komazawa</b> (<i>Current Senior undergraduate student, School of Fisheries Sciences at Hokkaido University</i>): Yu is a visiting student through Uehiro Intructor-Led Research Experience between UH and Hokkaido University. During his visit in Seo lab, Yu worked on understanding the influence of air-sea fluxes and water clarity on upper ocean mixing at OWS Papa using General Ocean Turbulence Model (GOTM). Explore his [journey](https://www.soest.hawaii.edu/oceanography/inbound-ilre-course-updates/) or dive into the [program details](https://www.soest.hawaii.edu/oceanography/ucao-welcomes-hokkaido-university-students-for-ilre/). </li>
+<figure>
+  <img
+  src="https://kerhalkarsid.github.io/images/Komazawa_2026_SeoLab"
+  alt="Yu, Sid and Hyodae during a meeting."
+  style="width: 50%; max-width: 300px;display: block; margin: 0 auto;">
+  <figcaption style="font-size: 16px;text-align: center;margin-top: 8px;margin-left: 90px;">Yu, Sid and Hyodae in a meeting during his stay at UH</figcaption>
+</figure>
+
+<li> <b>Debarshi Sarkar</b> (<i>Current PhD Student, Engineering and Applied Sciences, UMassD</i>): Debarshi is currently working on extending Nick's undergraduate thesis to incorporate observations from multiple OMNI moorings in the Arabian Sea and multiple reanalysis products for his first chapter of PhD. The goal behind this chapter is to report biases in measured and derived air-sea interaction parameters, as to address one likely issue of faulty monsoon forecasting. This work has been presented at Ocean Sciences Meeting 2024 and some other International and local conferences. Sid is serving as a colleague mentor for this work.</li>
 <figure>
   <img
   src="https://kerhalkarsid.github.io/images/nsp_20240614_072340_20240614-0124-IMG_1109.jpg"
