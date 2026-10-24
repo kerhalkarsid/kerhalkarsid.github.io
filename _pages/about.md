@@ -55,7 +55,7 @@ I spent my childhood in Visakhapatnam, a city located in the East Coast of India
       alt="Sid at Scripps Seminar"
       style="display: block; width: 100%; height: auto;">
     <figcaption style="font-size: 16px; text-align: center; margin-top: 8px;">
-      Sid presenting his research in CASPO Seminar at Scripps Institution of Oceanography, San Diego, USA.
+      Sid presenting his research in CASPO Seminar at Scripps Institution of Oceanography, San Diego.
     </figcaption>
   </figure>
 </div>
