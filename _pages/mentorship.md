@@ -5,7 +5,7 @@ author_profile: true
 ---
 Besides my own research, I regularly help my advisors by serving as primary mentors for undergraduate and graduate students in the lab I am associated in. Following are the list of students:
 <ol>
-<li> <b>Yu Komazawa</b> (<i>Current Senior undergraduate student, School of Fisheries Sciences at Hokkaido University</i>): Yu is a visiting student through Uehiro Intructor-Led Research Experience between UH and Hokkaido University. During his visit in Seo lab, Yu worked on understanding the influence of air-sea fluxes and water clarity on upper ocean mixing at OWS Papa using General Ocean Turbulence Model (GOTM). Explore his [journey](https://www.soest.hawaii.edu/oceanography/inbound-ilre-course-updates/) or dive into the [program details](https://www.soest.hawaii.edu/oceanography/ucao-welcomes-hokkaido-university-students-for-ilre/). </li>
+<li> <b>Yu Komazawa</b> (<i>Current Senior undergraduate student, School of Fisheries Sciences at Hokkaido University</i>): Yu is a visiting student through Uehiro Intructor-Led Research Experience between UH and Hokkaido University. During his visit in Seo lab, Yu worked on understanding the influence of air-sea fluxes and water clarity on upper ocean mixing at OWS Papa using General Ocean Turbulence Model (GOTM). Explore his [journey](https://www.soest.hawaii.edu/oceanography/inbound-ilre-course-updates) or dive into the [program details](https://www.soest.hawaii.edu/oceanography/ucao-welcomes-hokkaido-university-students-for-ilre). </li>
 <figure>
   <img
   src="https://kerhalkarsid.github.io/images/Komazawa_2026_SeoLab.jpg"
