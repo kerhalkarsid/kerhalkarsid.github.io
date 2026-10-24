@@ -42,7 +42,7 @@ I spent my childhood in Visakhapatnam, a city located in the East Coast of India
   <img
   src="https://kerhalkarsid.github.io/images/IMG_5196.jpg"
   alt="Outside SMAST"
-  style="width: 80%; max-width: 600px;display: block; margin: 0 auto;">
+  style="width: 80%; max-width: 600px; max-height: 400px; display: block; margin: 0 auto;">
   <figcaption style="font-size: 16px;text-align: center;margin-top: 8px;margin-left: 90px">Sid explaining his research and broader impacts to the community at UMassD</figcaption>
 </figure>
 If you are interested to know more about this journey, the following [article](https://gss.umassd.edu/2020/11/04/student-spotlight-siddhant-kerhalkar/) will be an interesting read. UMass Dartmouth also did a feature story which can be read [here](https://www.umassd.edu/feature-stories/2023/siddhant-kerhalkar.html)
