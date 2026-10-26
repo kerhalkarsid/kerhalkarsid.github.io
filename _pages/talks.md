@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 ## Invited Talks
+- *Bridging the Scales: Utilizing Upper Ocean Processes to Inform Improved Monsoon Predictability*, **Small-Scale Air-Sea Interaction course (OCN 665), University of Hawaiʻi at Mānoa**, Honolulu, USA, April 2026. 
 - *Modulation of Diurnal SST and Diurnal Warm Layer Variability by Salinity-Driven Stratification in the Bay of Bengal*, **Air-Sea Flux from Space Webinar Series, OASIS**, Online, February 2026. [Seminar recording here](https://youtu.be/6XnEW-GZU6k)
 - *Physics of Cyclone Wake Recovery: Submesoscale Turbulence Driven by Wind–Front Interactions*, **Climate, Atmospheric Sciences, and Physical Oceanography Seminar, Scripps Institution of Oceanography, UCSD**, San Diego, USA, February 2026. 
 - *Technical session on 1-D mixed layer models: General Ocean Turbulence Model (GOTM)*, **Small-Scale Air-Sea Interaction course (OCN 665), University of Hawaiʻi at Mānoa**, Honolulu, USA, January 2026. 
